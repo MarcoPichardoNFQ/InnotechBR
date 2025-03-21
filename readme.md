@@ -5,6 +5,7 @@
    2. [controlflag\_arquivos](#controlflag_arquivos)
    3. [controlflag\_interfaces](#controlflag_interfaces)
 4. [Consideraciones](#consideraciones)
+5. [Acciones Pendientes](#acciones-pendientes)
 
 # Objetivo
 
@@ -289,4 +290,9 @@ Explicacion de los campos de la tabla:
     - El campo `cod_flag_mapeo` de todas las tablas `SSS_` se mantendra de la forma `cod_flag_mapeo = null`.
 - ¿Cuando informar a s3?
   - Cuando el paso "Validacion cantidad de interfaces recibidas" de error, pues lo que ahce es contar cuantos archivos fueron procesados.
-  - Cuando un paso referente a flag da error, pues indica que no se recibio el archivo flag
+- Todo archivo flag procesado se mueve a la carpeta `/prdmegara/PRD/Devices/MegaCommon/innotech/Flags` al final de su lectura.
+
+# Acciones Pendientes
+- Actualmente el hacer o no mapeos se decide en base a la cantidad de interfaces recibidas, se debe de implementar la validacion de que el java ha ido correctamente.
+- Arreglar parte de encriptacion de los xml
+- Agregar alertas de fallo.
