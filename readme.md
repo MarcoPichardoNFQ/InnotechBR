@@ -289,3 +289,4 @@ Explicacion de los campos de la tabla:
     - El campo `cod_flag_mapeo` de todas las tablas `SSS_` se mantendra de la forma `cod_flag_mapeo = null`.
 - ¿Cuando informar a s3?
   - Cuando el paso "Validacion cantidad de interfaces recibidas" de error, pues lo que ahce es contar cuantos archivos fueron procesados.
+  - Cuando un paso referente a flag da error, pues indica que no se recibio el archivo flag
