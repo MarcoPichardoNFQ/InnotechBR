@@ -1,0 +1,106 @@
+{
+  "ejecuciones": [
+    { "archivo": "25823967", "hora_de_inicio": "2025-09-18T06:11:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:16:10Z", "duracion_segundos": 256 }
+  ,
+    { "archivo": "25824137", "hora_de_inicio": "2025-09-18T06:16:12Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:21:50Z", "duracion_segundos": 338 }
+  ,
+    { "archivo": "25824308", "hora_de_inicio": "2025-09-18T06:21:51Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:27:49Z", "duracion_segundos": 358 }
+  ,
+    { "archivo": "25824491", "hora_de_inicio": "2025-09-18T06:27:51Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:34:23Z", "duracion_segundos": 392 }
+  ,
+    { "archivo": "25824744", "hora_de_inicio": "2025-09-18T06:34:24Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:40:43Z", "duracion_segundos": 379 }
+  ,
+    { "archivo": "25824920", "hora_de_inicio": "2025-09-18T06:40:45Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:45:52Z", "duracion_segundos": 307 }
+  ,
+    { "archivo": "25825091", "hora_de_inicio": "2025-09-18T06:45:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:51:52Z", "duracion_segundos": 358 }
+  ,
+    { "archivo": "25825265", "hora_de_inicio": "2025-09-18T06:51:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:58:26Z", "duracion_segundos": 392 }
+  ,
+    { "archivo": "25825445", "hora_de_inicio": "2025-09-18T06:58:30Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T07:04:36Z", "duracion_segundos": 366 }
+  ,
+    { "archivo": "25825623", "hora_de_inicio": "2025-09-18T07:04:39Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T07:10:26Z", "duracion_segundos": 347 }
+  ,
+    { "archivo": "25825800", "hora_de_inicio": "2025-09-18T07:10:30Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T07:15:51Z", "duracion_segundos": 321 }
+  ,
+    { "archivo": "25825959", "hora_de_inicio": "2025-09-18T07:15:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T07:17:16Z", "duracion_segundos": 82 }
+  ,
+    { "archivo": "25818046", "hora_de_inicio": "2025-09-18T03:00:19Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:05:13Z", "duracion_segundos": 294 }
+  ,
+    { "archivo": "25818206", "hora_de_inicio": "2025-09-18T03:05:16Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:08:31Z", "duracion_segundos": 195 }
+  ,
+    { "archivo": "25818346", "hora_de_inicio": "2025-09-18T03:08:34Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:12:11Z", "duracion_segundos": 217 }
+  ,
+    { "archivo": "25818489", "hora_de_inicio": "2025-09-18T03:12:16Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:16:30Z", "duracion_segundos": 254 }
+  ,
+    { "archivo": "25818640", "hora_de_inicio": "2025-09-18T03:16:33Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:21:54Z", "duracion_segundos": 321 }
+  ,
+    { "archivo": "25818831", "hora_de_inicio": "2025-09-18T03:21:57Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:29:53Z", "duracion_segundos": 476 }
+  ,
+    { "archivo": "25819047", "hora_de_inicio": "2025-09-18T03:29:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:35:22Z", "duracion_segundos": 328 }
+  ,
+    { "archivo": "25819241", "hora_de_inicio": "2025-09-18T03:35:24Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:40:57Z", "duracion_segundos": 333 }
+  ,
+    { "archivo": "25819431", "hora_de_inicio": "2025-09-18T03:41:00Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:45:42Z", "duracion_segundos": 282 }
+  ,
+    { "archivo": "25819585", "hora_de_inicio": "2025-09-18T03:45:45Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:51:18Z", "duracion_segundos": 333 }
+  ,
+    { "archivo": "25819758", "hora_de_inicio": "2025-09-18T03:51:21Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:58:17Z", "duracion_segundos": 416 }
+  ,
+    { "archivo": "25819947", "hora_de_inicio": "2025-09-18T03:58:18Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:03:41Z", "duracion_segundos": 323 }
+  ,
+    { "archivo": "25820127", "hora_de_inicio": "2025-09-18T04:03:42Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:09:48Z", "duracion_segundos": 366 }
+  ,
+    { "archivo": "25820297", "hora_de_inicio": "2025-09-18T04:09:51Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:16:19Z", "duracion_segundos": 388 }
+  ,
+    { "archivo": "25820484", "hora_de_inicio": "2025-09-18T04:16:21Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:21:53Z", "duracion_segundos": 332 }
+  ,
+    { "archivo": "25820649", "hora_de_inicio": "2025-09-18T04:21:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:28:56Z", "duracion_segundos": 422 }
+  ,
+    { "archivo": "25820829", "hora_de_inicio": "2025-09-18T04:28:57Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:35:12Z", "duracion_segundos": 375 }
+  ,
+    { "archivo": "25821015", "hora_de_inicio": "2025-09-18T04:35:15Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:40:11Z", "duracion_segundos": 296 }
+  ,
+    { "archivo": "25821182", "hora_de_inicio": "2025-09-18T04:40:15Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:45:31Z", "duracion_segundos": 316 }
+  ,
+    { "archivo": "25821349", "hora_de_inicio": "2025-09-18T04:45:33Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:52:25Z", "duracion_segundos": 412 }
+  ,
+    { "archivo": "25821536", "hora_de_inicio": "2025-09-18T04:52:27Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T04:57:38Z", "duracion_segundos": 311 }
+  ,
+    { "archivo": "25821692", "hora_de_inicio": "2025-09-18T04:57:39Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:03:39Z", "duracion_segundos": 360 }
+  ,
+    { "archivo": "25821873", "hora_de_inicio": "2025-09-18T05:03:42Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:10:19Z", "duracion_segundos": 397 }
+  ,
+    { "archivo": "25822067", "hora_de_inicio": "2025-09-18T05:10:21Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:16:11Z", "duracion_segundos": 350 }
+  ,
+    { "archivo": "25822291", "hora_de_inicio": "2025-09-18T05:16:12Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:22:42Z", "duracion_segundos": 390 }
+  ,
+    { "archivo": "25822511", "hora_de_inicio": "2025-09-18T05:22:45Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:28:27Z", "duracion_segundos": 342 }
+  ,
+    { "archivo": "25822721", "hora_de_inicio": "2025-09-18T05:28:30Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:34:13Z", "duracion_segundos": 343 }
+  ,
+    { "archivo": "25822896", "hora_de_inicio": "2025-09-18T05:34:15Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:39:50Z", "duracion_segundos": 335 }
+  ,
+    { "archivo": "25823054", "hora_de_inicio": "2025-09-18T05:39:54Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:46:28Z", "duracion_segundos": 394 }
+  ,
+    { "archivo": "25823244", "hora_de_inicio": "2025-09-18T05:46:30Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T05:51:56Z", "duracion_segundos": 326 }
+  ,
+    { "archivo": "25823415", "hora_de_inicio": "2025-09-18T05:52:01Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:03:41Z", "duracion_segundos": 700 }
+  ,
+    { "archivo": "25823665", "hora_de_inicio": "2025-09-18T06:03:42Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:08:07Z", "duracion_segundos": 265 }
+  ,
+    { "archivo": "25823835", "hora_de_inicio": "2025-09-18T06:08:09Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T06:11:52Z", "duracion_segundos": 223 }
+  ,
+    { "archivo": "25817886", "hora_de_inicio": "2025-09-18T02:55:03Z", "estatus": "succeed", "tipo": "Automatica", "hora_de_fin": "2025-09-18T03:00:17Z", "duracion_segundos": 314 }
+  ],
+  "resumen": {
+    "total_archivos": 46,
+    "exitosos": 46,
+    "fallidos": {
+      "automatica": 0,
+      "manual_automatica": 0
+    },
+    "duracion_minima_seg": 82,
+    "duracion_maxima_seg": 700,
+    "duracion_promedio_seg": 339
+  }
+}

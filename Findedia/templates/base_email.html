@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Status do Dia</title>
+</head>
+<body>
+
+    <p>Boa noite.</p>
+    <p>Hoje o dia termina com o seguinte status:</p>
+
+    <ol>
+        <li>
+            <strong>Pacotes Encolados:</strong><br>
+            {{ queued_data | default('Información no disponible.') }}
+        </li>
+        <li>
+            <strong>Status Duplicados:</strong><br>
+            {{ duplicates_data.message | default('Información no disponible.') }}
+            {% if duplicates_data.content %}
+            <div style="background-color:#f0f0f0; border:1px solid #ccc; padding:10px; margin-top:5px;">
+                <pre>{{ duplicates_data.content }}</pre>
+            </div>
+            {% endif %}
+        </li>
+        <li>Não há arquivos CSV pendentes.</li>
+        <li>Nao temos erros no mapeamento.</li>
+        <li>
+            <strong>Execuções com o maior e menor tempo de execução:</strong>
+            {{ timings_report_html | safe }}
+        </li>
+        <li>Maior intervalo de tempo entre o primeiro e o último arquivo Flag recebido em uma mesma execução;
+            <br>
+            Diferencia do tempo:
+            <br>
+            <a href="#">Link</a>
+        </li>
+    </ol>
+
+    <p>Abs.<br>Atenciosamente</p>
+
+</body>
+</html>
