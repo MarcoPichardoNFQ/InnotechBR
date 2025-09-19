@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 # Cargar variables desde el archivo .env
 load_dotenv()
 
+
 # --- Configuración de Email ---
 IMAP_HOST = "imap.gmail.com"
 IMAP_PORT = 993
